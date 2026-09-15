@@ -1,1 +1,1 @@
-PLACEHOLDER
+open('/workspace/dumps/workspace/finalpool/task/finalpool/task_status.csv').read()
